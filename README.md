@@ -13,6 +13,16 @@ This project is a starting point for a Flutter application.
 <h3 align="center" style="color:green" >1. Login Page</h3>
  <p align="center">
 <img src="https://github.com/Yash1547/Chat_app_flutter/blob/main/screenshots/Screenshot_20230830_140153.jpg" width="500"></img>
+<br>
+<h3 align="center" style="color:green" >2. SignUp Page</h3>
+ <p align="center">
+<img src="https://github.com/Yash1547/Chat_app_flutter/blob/main/screenshots/Screenshot_20230830_140201.jpg" width="500"></img>
+<br>
+<h3 align="center" style="color:green" >3. Chat Screen</h3>
+ <p align="center">
+<img src="https://github.com/Yash1547/Chat_app_flutter/blob/main/screenshots/Screenshot_20230830_140257.jpg" width="500"></img>
+<img src="https://github.com/Yash1547/Chat_app_flutter/blob/main/screenshots/Screenshot_20230830_140301.jpg" width="500"></img>
+<br>
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
